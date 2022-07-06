@@ -30,7 +30,7 @@ global.ownername = '😎POOJI' //Owner Name
 global.botname = '⚤𝙷𝚘𝚝 𝚇 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕⚤ ' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.btnurl = 'https://youtube.com/channel/UCqmU0BSYrOhEDfzcso2Xw4A' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 

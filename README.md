@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/CwffZ61/20220605-104552.jpg" alt="nz" width="350"/>
+<img src="https://github.com/DevilBoyx/Red-Dragon/blob/main/DragonMedia/red-_-dragon-kumuthu.jpg?raw=true" alt="nz" width="350"/>
 </p>
 
 ## ⚤𝙷𝚘𝚝 𝚇 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕⚤   Version 5.0

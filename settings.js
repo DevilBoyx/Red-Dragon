@@ -44,7 +44,7 @@ global.footer = '©_POOJI.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 
-global.tiktok = 'www.tiktok.com/@hot_x_official' //Github Account!
+global.tiktok = 'https://www.tiktok.com/@hot_x_official?is_from_webapp=1&sender_device=pc' //Github Account!
 
 global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
 	
@@ -73,7 +73,7 @@ global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./DragonMedia/image/red-_-dragon-kumuthu.jpg')
+global.thumb = fs.readFileSync('./DragonMedia/image/red-_-dragon-kumuthu')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='

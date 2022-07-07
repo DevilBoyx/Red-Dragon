@@ -23,8 +23,8 @@ global.alivemsg = `My name is 𝙷𝚘𝚝 𝚇 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕
 My Creator is Poojitha Sadamina😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94753948932'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.premium = ['+94753948932'] //Owner Number info
+global.ownernomer = '+94753948932' //Owner Number <<<
 
 global.ownername = '😎POOJI' //Owner Name
 global.botname = '⚤𝙷𝚘𝚝 𝚇 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕⚤ ' //Bot Name
@@ -44,7 +44,7 @@ global.footer = '©_POOJI.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.tiktok = 'www.tiktok.com/@hot_x_official' //Github Account!
 
 global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
 	
